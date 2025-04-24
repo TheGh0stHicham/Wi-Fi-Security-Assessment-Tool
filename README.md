@@ -28,7 +28,7 @@ Unauthorized access to computer networks is illegal and unethical. The author ac
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/wifi-security-assessment-tool.git
+git clone https://github.com/TheGh0stHicham/wifi-security-assessment-tool.git
 cd wifi-security-assessment-tool
 ```
 
